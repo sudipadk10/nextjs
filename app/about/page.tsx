@@ -20,11 +20,17 @@ const page = () => {
             <div className="flex-1 p-4 space-y-8">
               <p className="text-[#ACB2CF]">Hello, i&apos;m Sudip Adhikari!</p>
               <p className="text-[#ACB2CF]">
-
-              As an IT Specialist and Networking Enthusiast with a keen interest in cybersecurity, I'm passionate about leveraging technology to build secure and efficient digital infrastructures.
+                As an IT Specialist and Networking Enthusiast with a keen
+                interest in cybersecurity, I am passionate about leveraging
+                technology to build secure and efficient digital
+                infrastructures.
               </p>
               <p className="text-[#ACB2CF]">
-              I specialize in implementing robust networking solutions and optimizing IT systems to meet the evolving needs of businesses. My journey in IT has been driven by a fascination with cybersecurity, constantly seeking to enhance defenses against emerging threats.
+                I specialize in implementing robust networking solutions and
+                optimizing IT systems to meet the evolving needs of businesses.
+                My journey in IT has been driven by a fascination with
+                cybersecurity, constantly seeking to enhance defenses against
+                emerging threats.
               </p>
               <button className="inline-block border border-[#C778DE] py-2 px-4 text-white">
                 Read more -&gt;
