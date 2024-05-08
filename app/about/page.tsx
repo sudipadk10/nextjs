@@ -7,7 +7,7 @@ const page = () => {
         className="bg-[#282C34] w-full text-white py-8 relative my-20"
         id="about"
       >
-        <div className="container mx-auto max-w-7xl px-4 md:px-8">
+        <div className="container mx-auto max-w-screen-xl px-4 md:px-8">
           <div className="py-8 flex items-center">
             <h2 id="about-me" className="text-3xl font-bold">
               <span className="text-[#C778DE]">#</span>

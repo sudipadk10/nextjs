@@ -5,9 +5,9 @@ const Page = () => {
   return (
     <>
       <div className="bg-[rgb(40,44,52)] w-full text-white pt-8" id="home">
-        <div className="container mx-auto max-w-7xl px-4 md:px-8 flex flex-col gap-8 md:flex-row items-center">
+        <div className="container mx-auto max-w-screenxl px-4 md:px-8 flex flex-col gap-8 md:flex-row items-center">
           <div className="relative py-12 text-center md:text-left flex flex-col justify-center md:flex-grow">
-            <h1 className="text-5xl font-bold mb-4 leading-normal">
+            <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold mb-4 leading-normal">
               Sudip is a
               <span className="text-[#C778DE] mx-4">IT Specialist</span>
               and
