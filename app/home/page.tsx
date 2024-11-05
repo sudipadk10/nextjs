@@ -25,7 +25,7 @@ const Page = () => {
                 alt="techguy"
                 width={480}
                 height={480}
-                className="z-20 relative rounded-full "
+                className="z-20 relative  "
               />
               <div className="flex items-center border border-[#ACB2CF] text-[#ACB2CF] py-2 px-4">
                 <span className="inline-block bg-[#C778DE] w-4 h-4 mr-4"></span>
@@ -262,7 +262,7 @@ const Page = () => {
                   fill="#ABB2BF"
                 ></path>
               </svg>
-              My computer&apos; always hot cause it&apos;s windowless!
+              My computer is always hot cause it&apos;s windowless!
             </div>
             <div className="inline-block text-right mt-[-1px] border border-[#ACB2CF] p-4 relative">
               <svg
